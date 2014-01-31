@@ -1,0 +1,42 @@
+* {
+	font-family: Monaco;
+}
+
+.tweetText {
+	font-size: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.info {
+	text-align: center;
+}
+
+.tweetQueue {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.tweetNo {
+	text-align: center;
+}
+
+h2, h3 {
+	text-align: center;
+}
+
+.inputArea {
+	font-size: 14px;
+	margin: 0 auto;
+}
+
+.charCount, .shiftNumber, .queueIndex {
+	width: 30px;
+}
+
+.inputContainerDiv {
+	text-align:center;
+}
+
+hr {
+	width: 50%;
+}
