@@ -13,3 +13,4 @@ Known issues (that will hopefully get fixed!), future ideas:
 * Implement some form of UI for setting up crons, though this might be impossible
 * Right now, the bot looks at ```\n\n``` as a tweet separator. This should probably be changed to something else
 * Some better form of logging on ```oldTweets.txt```
+* Selecting a tweet from a pre-determined set of possible tweets (i.e., random number gen)
