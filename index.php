@@ -68,7 +68,7 @@
 	</head>
 
 	<body>
-		<h2>@evetaku_txt control panel</h2>
+		<h2>control panel</h2>
 		<p class="info">tweets in queue: <span class="queueCount"><?= count($tweets) ?></span></p>
 		<div class="inputContainerDiv">
 			<textarea cols="60" rows="6" class="inputArea"></textarea>
